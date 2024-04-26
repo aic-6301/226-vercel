@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "vercel": "^19.2.0"
+  },
+  "name": "418-vercel",
+  "version": "1.0.0",
+  "description": "つくりたかっただけ",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
